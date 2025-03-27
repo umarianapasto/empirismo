@@ -10,6 +10,20 @@
     flex-direction:column;
     
   }
+
+  .menu2 {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    border-radius: 3px;
+    margin: 10px;
+    flex-direction: column;
+    background-color: #00adbd;
+    font-family: solido;
+    text-align: center;
+
+  }
   
   .menu button {
     padding: 10px;
@@ -24,6 +38,8 @@
     max-width: 800px; /* Ajusta el ancho para dejar espacio al menú */
     position: relative;
     margin: auto;
+    border-color: #717171;
+    border: solid;
   }
   
   .slide {
@@ -88,10 +104,11 @@
     margin: 5px;
     padding: 5px;
     width: 100%;
-    background-color: #a3c6e0;
+    background-color: #0096FF;
     text-align: center;
     font-size: 24px;
     font-family:solido;
+  
     
   }
   @-webkit-keyframes fade {
