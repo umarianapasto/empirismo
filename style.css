@@ -25,6 +25,20 @@
     text-align: center;
 
   }
+
+  .menu3 {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    border-radius: 3px;
+    margin: 10px;
+    flex-direction: column;
+    background-color: #00adbd;
+    font-family: 'Cinzel';
+    text-align: center;
+
+  }
   
   .menu button {
     padding: 10px;
@@ -78,6 +92,7 @@
     bottom: 8px;
     width: 100%;
     text-align: center;
+    font-family: 'Cinzel';
   }
   
   .dot {
