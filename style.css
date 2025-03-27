@@ -122,7 +122,7 @@
   }
   @font-face {
     font-family:solido;
-    src: url('/Fuentes/Cinzel-SemiBold.ttf') format('truetype');
+    src: url('./Fuentes/Cinzel-SemiBold.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
     }
